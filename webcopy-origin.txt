@@ -1,0 +1,92 @@
+Uri: https://template77142.motopreview.com/
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\index.htm
+Content Type: text/html
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-header-bg.jpg
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-parallax1.jpg
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-parallax1.jpg
+Content Type: image/jpeg
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-mission.jpg
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-mission.jpg
+Content Type: image/jpeg
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-parallax2_1.jpg
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-parallax2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-parallax3.jpg
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-parallax3.jpg
+Content Type: image/jpeg
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-circle.png
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-circle.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&subset=latin
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\css.css
+Content Type: text/css
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-favicon.ico?_build=1633806342
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://template77142.motopreview.com/mt-includes/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://template77142.motopreview.com/mt-includes/css/assets.min.css?_build=1633339793
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\css\assets.min.css
+Content Type: text/css
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/assets/styles.css?_build=1632936080
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\assets\styles.css
+Content Type: text/css
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-testimonials1.png
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-testimonials1.png
+Content Type: image/png
+
+Uri: https://template77142.motopreview.com/mt-demo/77100/77142/mt-content/uploads/2019/01/mt-1733-home-testimonials2.png
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-demo\77100\77142\mt-content\uploads\2019\01\mt-1733-home-testimonials2.png
+Content Type: image/png
+
+Uri: https://template77142.motopreview.com/mt-includes/js/website.assets.min.js?_build=1632918612
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\js\website.assets.min.js
+Content Type: application/javascript
+
+Uri: https://template77142.motopreview.com/mt-includes/js/website.min.js?_build=1632918598
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\js\website.min.js
+Content Type: application/javascript
+
+Uri: https://template77142.motopreview.com/mt-includes/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://template77142.motopreview.com/mt-includes/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://template77142.motopreview.com/mt-includes/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://template77142.motopreview.com/mt-includes/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://template77142.motopreview.com/mt-includes/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\mt-includes\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://api.whatsapp.com/
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.messenger.com/
+File Name: C:\Users\Матвей\Desktop\template77142.motopreview.com\index-2.htm
+Content Type: text/html
+
